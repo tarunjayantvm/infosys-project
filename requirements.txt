@@ -4,8 +4,8 @@ gunicorn==23.0.0
 numpy>=1.24
 Pillow>=9.0
 matplotlib>=3.6
-opencv-python>=4.7 ; optional
-scikit-image>=0.20 ; optional
+opencv-python>=4.7 
+scikit-image>=0.20 
 tqdm>=4.64
 requests>=2.28
 python-dotenv>=1.0

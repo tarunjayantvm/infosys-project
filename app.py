@@ -6,6 +6,7 @@ import io
 from datetime import datetime
 import shutil
 import numpy as np
+import gdown
 
 import torch
 import segmentation_models_pytorch as smp

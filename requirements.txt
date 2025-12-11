@@ -1,0 +1,10 @@
+Flask==2.3.2
+Werkzeug==2.3.6
+segmentation-models-pytorch==0.3.1
+efficientnet-pytorch==0.7.1
+numpy==1.26.2
+Pillow==10.1.0
+gdown==4.6.6
+requests==2.31.0
+waitress==2.1.2
+gunicorn==21.2.0

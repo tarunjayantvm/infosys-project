@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.Python
+venv/
+env/
+
+# Environment variables (NEVER commit)
+.env
+.env.local
+
+# Model checkpoints (downloaded during build)
+*.pth
+
+# Uploads and temp files (regenerated at runtime)
+static/uploads/
+static/batch_results/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Render/build logs
+.render/
+build.log
